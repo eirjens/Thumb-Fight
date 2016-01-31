@@ -1,4 +1,9 @@
 # Thumb-Fight
 A simple Android game.
 
-Playable two player boxing game, using your thumbs only.
+Two player boxing game, use thumbs to punch and block.
+
+Options
+* Start/stop music
+* Save/load game
+* Set names
