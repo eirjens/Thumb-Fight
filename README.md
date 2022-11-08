@@ -7,3 +7,6 @@ Options
 * Start/stop music
 * Save/load game
 * Set names
+
+Install:
+Connect device to Android studio
